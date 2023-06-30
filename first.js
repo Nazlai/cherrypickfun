@@ -13,3 +13,9 @@ function anotherFunction() {
     
     return anotherFunction
 }
+
+function introducedLater() {
+    console.log('introducedLater')
+
+    return introducedLater
+}
