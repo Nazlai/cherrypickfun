@@ -19,3 +19,9 @@ function introducedLater() {
 
     return introducedLater
 }
+
+function staged() {
+    console.log('staged')
+
+    return staged
+}
